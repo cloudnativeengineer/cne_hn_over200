@@ -1,0 +1,8 @@
+.ropeproject/
+__pycache__/
+**/__pycache__/
+*.pyc
+**/*.pyc
+.env*
+*.env
+.venv/
