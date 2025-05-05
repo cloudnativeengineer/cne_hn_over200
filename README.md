@@ -20,3 +20,6 @@ pip install -r cne_hn_over200/requirements.txt
 cd ..
 python -m cne_hn_over200
 ```
+
+## GenAI Disclaimer:
+* Built with an AI assistant; review all code before executing code in production.
